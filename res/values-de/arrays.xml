@@ -156,10 +156,10 @@
 
     <!-- long press home -->
     <string-array name="long_press_home_entries">
-        <item>Kürzlich verwendet</item>
+        <item>Standard</item>
         <item>Nichts tun</item>
-        <item>Kamera</item>
-        <item>Benutzerdefinierte Anwendung</item>
+        <item>Pre-ICS Kürzlich verwendet</item>
+        <item>Kürzlich verwendet</item>
     </string-array>
 
     <string-array name="pref_lockscreen_options_entries">
