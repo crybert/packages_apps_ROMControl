@@ -94,6 +94,9 @@
     <string name="longpress_to_kill_summary">Das Halten der Zurück-Taste beendet die aktuelle App.</string>
 
     <string name="enable_volume_options">Aktiviere Volumen Optionen</string>
+    
+     <string name="less_notification_sounds_title">Weniger häufige Benachrichtigungstöne</string>
+    <string name="less_notification_sounds_summary">Limitiere das Abspielen der Benachrichtigungstöne einer App auf den gesetzen Wert</string>
 
     <string name="rotate_180_title">180° Rotation erlauben</string>
     <string name="rotate_180_summary">Erlaube Deinem Gerät eine 180° Rotation!</string>
